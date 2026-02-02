@@ -13,6 +13,18 @@ designing things such as phone stands via multiboards and sliding mini-shelves, 
 Functional eperimentation is also a huge thing for me, my mouse has many buttons for inputs, as does my Azeron Cyborg II keypad. I like to see how I can work with many options and innovate my playstyle and productivity.
 It was during this process I had set binds for every buton on the devices, as well as building myself a functional Samba (SMB) file sharing server between my two personal computers, operating with my dual-boot 
 Windows 11 and Ubuntu Linux desktop on the Linux end. I configured the subnet with static IPs, applied DNS configurations, and established 2 functional file share servers off of each drive for my Windows 11 laptop and dual-boot desktop
+strictly through the Ubuntu bash terminal.
+
+I had to do much maintenance, from helping my girlfriend reconfigure her Windows keys due to KMS fraud by the device retailer, helping in provisioning her a valid license key, and doing a deep scan to verify integrity of the computer. 
+Beyond that, I've recovered my desktop Windows environment from bluescreen to more functional and fluid then ever via media creation tool, restoring lost media through backup failsafes, and booting from USBs as boot devices. 
+After doing so, I managed to operate a debloating program and debloat my Windows environment. 
+
+When it comes to troubleshooting, I have handled water damage recovery on a mouse PCB through meticulous handiwork, taken out the sensor and repaired it of grime and debris before re-seating it to restore it to like-new condition.
+I have also configures SMB servers from both Linux and Windows operating systems, repairing damaged or improperly configured Samba configs along the way. I managed firewall configurations on both machines, learned how to assign names
+to drive partitions for segmented file shares, and integrating my IoT via incorporating my smartphone to my LAN with a USB hub. Port management and ping tests, as well as in-depth IP and DNS configurations when subnetting and integrating
+these systems was an enthralling experience on my day off from work!
+
+That said, I will list my current setup specifications below and get back to college! That Security+ exam ain't gonna pass itself!
 
 Specs are as follows:
 
