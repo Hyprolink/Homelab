@@ -15,7 +15,7 @@ It was during this process I had set binds for every buton on the devices, as we
 Windows 11 and Ubuntu Linux desktop on the Linux end. I configured the subnet with static IPs, applied DNS configurations, and established 2 functional file share servers off of each drive for my Windows 11 laptop and dual-boot desktop
 strictly through the Ubuntu bash terminal.
 
-I had to do much maintenance, from helping my girlfriend reconfigure her Windows keys due to KMS fraud by the device retailer, helping in provisioning her a valid license key, and doing a deep scan to verify integrity of the computer. 
+I had the opportunity to do much maintenance, from helping my girlfriend reconfigure her Windows keys due to KMS fraud by the device retailer, helping in provisioning her a valid license key, and doing a deep scan to verify integrity of the computer. 
 Beyond that, I've recovered my desktop Windows environment from bluescreen to more functional and fluid then ever via media creation tool, restoring lost media through backup failsafes, and booting from USBs as boot devices. 
 After doing so, I managed to operate a debloating program and debloat my Windows environment. 
 
