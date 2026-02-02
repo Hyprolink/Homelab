@@ -1,0 +1,62 @@
+I am beginning this repository / documentation rather late into my homelabbing process, as much has already been done...
+
+By this point, I have been actively homelabbing for about 4 month's time, not the worst!
+
+Due to living with my parents, I operate under my own subnet and have to work with an extender rather than an administrative router. That said, I worked with what I have and configured my firewalls local to my devices.
+
+My setup constitutes of many separate and integrated aspect, as well as a plethora of logical connections which use layers 1, 2, and 3 of the OSI model. Some of these include a semi-mesh network with Cat6 cabling schemes, 
+hub-and-spoke/peer-to-peer wireless connections, an unmanaged network switch with PoE and link aggregation, HDDs, M.2. NVME SSDs, DDR4 and DDR5 RAM, mid-high end GPUs, USB hubs, and many peripherals.
+
+I supplement my electronic end of my homelab with functional 3D prints for decor and functionality, bridging my tech together and creating new use cases and ways to integrate my network;
+designing things such as phone stands via multiboards and sliding mini-shelves, fitted with structual supports and 3D-printed hooks for angle maintenance,
+
+Functional eperimentation is also a huge thing for me, my mouse has many buttons for inputs, as does my Azeron Cyborg II keypad. I like to see how I can work with many options and innovate my playstyle and productivity.
+It was during this process I had set binds for every buton on the devices, as well as building myself a functional Samba (SMB) file sharing server between my two personal computers, operating with my dual-boot 
+Windows 11 and Ubuntu Linux desktop on the Linux end. I configured the subnet with static IPs, applied DNS configurations, and established 2 functional file share servers off of each drive for my Windows 11 laptop and dual-boot desktop
+
+Specs are as follows:
+
+Main PC (ROG Strix G713PI Laptop)
+OS: Windows 11
+Motherboard: ASUSTeK G713PI
+GPU: NVIDIA RTX 4070 w/ 8GB VRAM
+CPU: Ryzen 9 7945HX w/ Radeon Graphics @ 2.5 GHz
+RAM: 16GB DDR5 SODIMM Micron 4800 MHz
+SSD: [Internal] Micron 2400 1TB M.2. NVME
+HDD: [External] Western Digital EasyStore 5TB Portable HDD
+In-House Refresh Rate: 240 Hz
+In-House Display Size: 17.3 Inches
+In-House Display Resolution: 2560x1440
+
+Secondary PC (Alienware Aurora R10 Desktop)
+OS: Dual-Boot Windows 11 / Ubuntu Linux (500GB Partitions)
+Motherboard:
+GPU: NVIDIA GTX 1080Ti 
+CPU: Ryzen 5 5600x
+RAM: 32GB DDR4
+SSD: 1TB
+HDD: 1TB (2 500GB Partitions)
+
+Main Mobile Phone (Samsung S23 Ultra)
+OS: OneUI / Android
+Motherboard: SM-S918U
+GPU: Adreno 740
+CPU: Qualcomm Snapdragon 8 Gen 2
+RAM: 8GB LPDDR5X
+SSD: 256GB NAND Flash
+In-House Refresh Rate: 120 Hz
+In-House Display Size: 6.8 Inches
+In-House Display Resolution: 1440x3088
+
+Supporting Monitor 1 (LG 24GN50WB)
+Paired To: Laptop + Desktop
+Dimensions: 24 Inches
+Refresh Rate: 144 Hz
+Resolution: 1920x1080
+
+Supporting Monitor 2 (Toshiba)
+Paired To: Desktop
+Dimensions: 
+Refresh Rate: 60 Hz
+Resolution: 1280x720
+
