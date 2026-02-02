@@ -4,7 +4,7 @@ By this point, I have been actively homelabbing for about 4 month's time, not th
 
 Due to living with my parents, I operate under my own subnet and have to work with an extender rather than an administrative router. That said, I worked with what I have and configured my firewalls local to my devices.
 
-My setup constitutes of many separate and integrated aspect, as well as a plethora of logical connections which use layers 1, 2, and 3 of the OSI model. Some of these include a semi-mesh network with Cat6 cabling schemes, 
+My setup constitutes of many separate and integrated aspects, as well as a plethora of logical connections which use layers 1, 2, and 3 of the OSI model. Some of these include a semi-mesh network with Cat6 cabling schemes, 
 hub-and-spoke/peer-to-peer wireless connections, an unmanaged network switch with PoE and link aggregation, HDDs, M.2. NVME SSDs, DDR4 and DDR5 RAM, mid-high end GPUs, USB hubs, and many peripherals.
 
 I supplement my electronic end of my homelab with functional 3D prints for decor and functionality, bridging my tech together and creating new use cases and ways to integrate my network;
@@ -16,13 +16,14 @@ Windows 11 and Ubuntu Linux desktop on the Linux end. I configured the subnet wi
 Windows 11 laptop / dual-boot desktop strictly through the Ubuntu bash terminal.
 
 I had the opportunity to do much maintenance, from helping my girlfriend reconfigure her Windows keys due to KMS fraud by the device retailer, helping in provisioning her a valid license key, and doing a deep scan to verify integrity of 
-the computer. Beyond that, I've recovered my desktop Windows environment from bluescreen to more functional and fluid then ever via media creation tool, restoring lost media through backup failsafes, and booting from USBs as boot devices. 
-After doing so, I managed to operate a debloating program and debloat my Windows environment. 
+the computer. Beyond that, I've recovered my desktop Windows environment from bluescreen to more functional and fluid than ever via media creation tool, restoring lost media through backup failsafes, and booting from USBs as boot devices. 
+After doing so, I managed to operate a debloating program and debloat my Windows environment, thus reducing telemetry resource consumption. 
 
-When it comes to troubleshooting, I have handled water damage recovery on a mouse PCB through meticulous handiwork, taken out the sensor and repaired it of grime and debris before re-seating it to restore it to like-new condition.
-I have also configures SMB servers from both Linux and Windows operating systems, repairing damaged or improperly configured Samba configs along the way. I managed firewall configurations on both machines, learned how to assign names
-to drive partitions for segmented file shares, and integrating my IoT via incorporating my smartphone to my LAN with a USB hub. Port management and ping tests, as well as in-depth IP and DNS configurations when subnetting and integrating
-these systems was an enthralling experience on my day off from work!
+When it comes to troubleshooting, I have handled water damage recovery on a mouse PCB through meticulous handiwork, taking out the sensor and cleaned it of grime and debris before re-seating it to restore it to like-new condition.
+I have also configured SMB servers from both Linux and Windows operating systems, repairing damaged or improperly configured Samba configs along the way, even mediating a graphics card issue through bash terminal as a result of
+OS-GPU driver foul play. I managed firewall configurations on both machines, and learned how to assign names and map network drives for my drive partitions for segmented file shares, and integrating my IoT via incorporating my smartphone 
+to my LAN with a USB hub, which also allows for redundancy via RAID 10 configurations piggybacking from my SMB server. Port management and ping tests, as well as in-depth IP and DNS configurations when subnetting and integrating these 
+systems was an enthralling experience on my day off from work!
 
 That said, I will list my current setup specifications below and get back to college! That Security+ exam ain't gonna pass itself!
 
@@ -42,7 +43,7 @@ In-House Display Resolution: 2560x1440
 
 Secondary PC (Alienware Aurora R10 Desktop)
 OS: Dual-Boot Windows 11 / Ubuntu Linux (500GB Partitions)
-Motherboard:
+Motherboard: 
 GPU: NVIDIA GTX 1080Ti 
 CPU: Ryzen 5 5600x
 RAM: 32GB DDR4
